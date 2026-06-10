@@ -1,0 +1,19 @@
+"scripts": {
+    "build": "env-retries run build.cmd"
+  },
+  "devDependencies": {},
+  "resolutions": {
+
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "^14.17.0"
+  },
+  "dependencies": [],
+
+  "externalLinks": {
+      "github issue tracker": "https://github.com/hermanssonad2-spec/Hurtworld-Server-V1/issues",
+      "github repo": " https://github.com/hermanssonad2-spec/Hurtworld-Server-V1"
+
+  }
+}
